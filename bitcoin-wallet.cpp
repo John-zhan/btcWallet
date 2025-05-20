@@ -2,22 +2,22 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#include <bitcoin-build-config.h> // IWYU pragma: keep
-
-#include <chainparams.h>
-#include <chainparamsbase.h>
-#include <clientversion.h>
-#include <common/args.h>
-#include <common/system.h>
-#include <compat/compat.h>
-#include <interfaces/init.h>
-#include <key.h>
-#include <logging.h>
-#include <pubkey.h>
-#include <tinyformat.h>
-#include <util/exception.h>
-#include <util/translation.h>
-#include <wallet/wallettool.h>
+//#include <bitcoin-build-config.h> // IWYU pragma: keep
+//
+//#include <chainparams.h>
+//#include <chainparamsbase.h>
+//#include <clientversion.h>
+//#include <common/args.h>
+//#include <common/system.h>
+//#include <compat/compat.h>
+//#include <interfaces/init.h>
+//#include <key.h>
+//#include <logging.h>
+//#include <pubkey.h>
+//#include <tinyformat.h>
+//#include <util/exception.h>
+//#include <util/translation.h>
+//#include <wallet/wallettool.h>
 
 #include <exception>
 #include <functional>
